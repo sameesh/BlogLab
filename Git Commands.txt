@@ -1,0 +1,8 @@
+To add the project to the local repository
+git Init
+
+To know the status
+git status
+
+To add all the files to be tracked
+git add .(current folder)

@@ -1,0 +1,22 @@
+
+To Install angular client
+npm install -g @angular/cli
+
+To create a new project
+ng new <ProjectName> --skip-git --skip-tests -- skip-install
+
+To add all the modules required for the project (as per package.json)
+npm install
+
+To install Bootstrap
+ng add ngx-bootstrap
+ Cannot find module '@schematics/angular/utility/config
+Solution
+npm uninstall @schematics/angular
+npm install @schematics/angular@9.1.0
+
+Intall font-awesome
+npm install --save @fortawesome/fontawesome-free
+
+To Run
+ng serve
