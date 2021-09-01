@@ -6,3 +6,15 @@ git status
 
 To add all the files to be tracked
 git add .(current folder)
+
+To commit locally
+git commit -m "<any comments>"
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+git branch -M <branch name> eg: git branch -M main
+To link the remote repository to local
+git remote add origin http://github.com/user/repository.git
+To push local to remote
+git push -u origin <branchname> eg: git push -u origin main

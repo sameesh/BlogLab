@@ -10,7 +10,15 @@ npm install
 
 To install Bootstrap
 ng add ngx-bootstrap
- Cannot find module '@schematics/angular/utility/config
+Error:C:\Users\sameesh\AppData\Roaming\npm\ng.ps1 is not digitally signed. You cannot tstrap
+run this script                                                                  
+on the current system. For more information about running scripts and setting exrun this script  ecution policy,                                                                 ecution policy,  
+see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.  
+At line:1 char:1
++ ng add ngx-bootstrap
+Soluntion :Open Commandline Terminal instead of Powershell
+
+ Error:Cannot find module '@schematics/angular/utility/config
 Solution
 npm uninstall @schematics/angular
 npm install @schematics/angular@9.1.0
