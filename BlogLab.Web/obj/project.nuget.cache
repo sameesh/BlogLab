@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B1B5w9SsjwVoJp7tF8o8kyvqBQZ8qIGGwr1wXRLSHDw0U3XAMjMyOKiQTa7kTzuu97ClM0iZiL06mHPffDqrEA==",
+  "dgSpecHash": "i6ORaLGF9eaLcV+H/Hy+PTUBguQ2fVhTJYdkJim586EC4GufgK3RGQGdDlOYm5Ga3ZtYtijZwDfQU3tR3vHMEA==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\Packt\\AspNet\\LearnWebDevByBlog\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+  "projectFilePath": "E:\\Learning\\Packt\\AspNet\\LearnWebDevByBlog\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

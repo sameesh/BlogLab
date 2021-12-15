@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogLab.Web", "BlogLab.Web\BlogLab.Web.csproj", "{4759549C-0FBE-4D8D-A29D-5DBA86F3BE0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogLab.Web", "BlogLab.Web\BlogLab.Web.csproj", "{4759549C-0FBE-4D8D-A29D-5DBA86F3BE0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogLab.Models", "BlogLab.Models\BlogLab.Models.csproj", "{EC426FE7-49EE-49CB-AE7E-E6DCA90A7082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogLab.Repository", "BlogLab.Repository\BlogLab.Repository.csproj", "{815F02B1-6589-484A-92C7-C16F19AD2B21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{4759549C-0FBE-4D8D-A29D-5DBA86F3BE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4759549C-0FBE-4D8D-A29D-5DBA86F3BE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4759549C-0FBE-4D8D-A29D-5DBA86F3BE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC426FE7-49EE-49CB-AE7E-E6DCA90A7082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC426FE7-49EE-49CB-AE7E-E6DCA90A7082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC426FE7-49EE-49CB-AE7E-E6DCA90A7082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC426FE7-49EE-49CB-AE7E-E6DCA90A7082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815F02B1-6589-484A-92C7-C16F19AD2B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815F02B1-6589-484A-92C7-C16F19AD2B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815F02B1-6589-484A-92C7-C16F19AD2B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815F02B1-6589-484A-92C7-C16F19AD2B21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
